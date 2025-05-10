@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/Daradege/PersianGulf/blob/main/Persian-Gulf.jpeg?raw=true" 
+       alt="خلیج فارس">
+</div>
+
 # Save Persian Gulf
 
 **This repository is part of a campaign initiated by the Iranian programming community.**
